@@ -1,11 +1,11 @@
-const hre = require("hardhat");
+const hre= require("hardhat");
 
 async function main() {
 
   const TiketEvent = await hre.ethers.getContractFactory("tiketEvent");
   const tiketEvent = await TiketEvent.attach("0xDf518984AabbfF90D9AC4e2101633c2E8Cb4D606");
 
-  const tr = await tiketEvent.mintNFT("0xf9335D3D5a22aDA02fcb12fE48cd0383F9D1EA20", "https://gateway.pinata.cloud/ipfs/QmUPS5dsV5RHX5yVxCAwzsTXby9LLWpyJSQnWFiLCE48AF");
+  const tr = await tiketEvent.mintNFT("0xf9335D3D5a22aDA02fcb12fE48cd0383F9D1EA20", "https://gateway.pinata.cloud/ipfs/Qme6eNVqZrGgEPro4jFyFEbtMmQQT4mKB4bRberJLXvcuq");
   console.log(
     ` tr`, tr
   );

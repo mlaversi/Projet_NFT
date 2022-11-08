@@ -1,13 +1,13 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is up to save all the personalities of kemar and his caracters; 
 
-Try running some of the following tasks:
+Technicity : 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+    - First take the contract 
+
+How to have the pictures : 
+
+    - Watch the kemar youtube videos 
+    - Get a picture of his carachter and see on a website which refered all of them. 
+

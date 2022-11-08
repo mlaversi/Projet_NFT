@@ -11,7 +11,7 @@ contract tiketEvent is ERC721URIStorage, Ownable {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
 
-    constructor() ERC721("ticket event", "TE") {}
+    constructor() ERC721("Kemar", "K") {}
 
     function mintNFT(address recipient, string memory tokenURI)
         public onlyOwner
