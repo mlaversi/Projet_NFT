@@ -23,6 +23,8 @@ npx hardhat run scripts/deploy.ts
 
 # public project presentation
 
+Here's the link : https://testnets.opensea.io/assets/mumbai/0xdf518984aabbff90d9ac4e2101633c2e8cb4d606/1
+
 
 This project is to pay tribute to kemar, a personality who marked generations.
 The goal of this project wass to create a NFT's collection of all characters that came out of Kemar's imagination and came to life through his various videos.
